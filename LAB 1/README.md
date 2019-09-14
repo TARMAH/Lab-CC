@@ -1,6 +1,6 @@
 # Lab 01: Introduction
 ## Language used: C
-Task
+### Task
 Check if a given line is a comment or not.
 Make a Calculator in C. Which performs the following operations:
 Addition
